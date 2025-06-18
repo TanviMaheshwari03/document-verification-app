@@ -1,1 +1,1 @@
-# document-verification-app
+# document-verification
